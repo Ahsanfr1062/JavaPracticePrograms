@@ -12,7 +12,7 @@ public class ok {
         char grade;
         total = sub_1+sub_2+sub_3+sub_4+sub_5;
         average = total/5;
-        percentage = total*100/500;
+        percentage = total*100/500;;;;
         if(average>=90)
         {
             grade = 'A';
